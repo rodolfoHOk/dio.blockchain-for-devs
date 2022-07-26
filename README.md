@@ -2,6 +2,10 @@
 
 > Digital innovation one
 
+Aprenda na prática a criar um token de rastreabilidade do zero
+
+Usando-o vinculando a adoção de pets ao token usando uma carteira digital
+
 ## Requisitos
 
 - NodeJS com NPM: https://nodejs.org/en/download/
